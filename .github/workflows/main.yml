@@ -41,6 +41,6 @@ jobs:
           echo is git installed ?
           git --version
           echo what about build tool ?
-          grant --version
+          gradle --version
           
           
