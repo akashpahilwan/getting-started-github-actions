@@ -45,6 +45,7 @@ jobs:
           echo what about build tool ?
           gradle --version
           echo get details from demo.sh
+          cat demo.sh
           echo run demo.sh
           sh demo.sh
           cat demo.yml
