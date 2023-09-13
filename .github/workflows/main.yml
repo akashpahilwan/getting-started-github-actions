@@ -48,6 +48,5 @@ jobs:
           cat demo.sh
           echo run demo.sh
           sh demo.sh
-          cat demo.yml
           
           
