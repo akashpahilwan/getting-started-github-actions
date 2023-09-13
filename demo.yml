@@ -1,1 +1,0 @@
-password: "{{ env_var('test_password') }}"
